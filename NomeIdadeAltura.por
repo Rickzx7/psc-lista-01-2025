@@ -13,7 +13,7 @@ programa {
 
     escreva("DADOS INFORMADOS \n")
     escreva("Nome: ", nome, "\n" )
-    escreva("Idade: ", idade, "anos\n")
-    escreva("Altura: ", altura, "metros\n")
+    escreva("Idade: ", idade, " anos\n")
+    escreva("Altura: ", altura, " metros\n")
   }
 }
